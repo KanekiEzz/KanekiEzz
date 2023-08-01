@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b290fc&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b290fc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+ILYASSEZZAM;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b290fc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ilyass+Ezzam;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 
 
 - 🔭 I’m currently working on *expanding my programming skills and knowledge, especially in C Language.*
