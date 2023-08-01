@@ -1,8 +1,8 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b290fc&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+ILYASSEZZAM;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b290fc&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+ILYASSEZZAM;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 
 
 - 🔭 I’m currently working on *expanding my programming skills and knowledge, especially in C Language.*
@@ -32,7 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiEzzam&theme=radical" alt="KanekiEzzam" /></p>
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b290fc&height=120&section=footer"/>
 </a>
 
-![Snake animation](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/blob/output/github-contribution-grid-snake.svg)
