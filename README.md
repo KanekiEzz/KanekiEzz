@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on *open-source projects and programming challenges.*
 
-- 📫 How to reach me? *you can use [Email](mohamedelhmouid51516@gmail.com).*
+- 📫 How to reach me? *you can use [Email](ilyassezzam1337@gmail.com).*
 
 - ⚡ Fun fact *It’s all 0’s and 1’s*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-elhmouid-082a6a23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed elhmouid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ilyass-codezz-364204263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed elhmouid" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100051791590382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed elhmouid" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed elhmouid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed elhmouid" height="30" width="40" /></a>
 <a href="https://discord.com/users/7emida#9768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
