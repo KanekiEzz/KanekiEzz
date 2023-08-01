@@ -34,3 +34,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=naima-adardor&show_icons=true&locale=en&theme=radical" alt="naima-adardor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naima-adardor&theme=radical" alt="naima-adardor" /></p>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
+
+![Snake animation](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/blob/output/github-contribution-grid-snake.svg)
