@@ -4,7 +4,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3d2337&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile;I'm+ILYASS+EZZAM;Let%27s+create+awesome+projects!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#609acc&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile;I'm+ILYASS+EZZAM;Let%27s+create+awesome+projects!+ツ)
 
 
 - 🔭 I’m currently working on *expanding my programming skills and knowledge, especially in C Language.*
