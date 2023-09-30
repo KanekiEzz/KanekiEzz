@@ -18,7 +18,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=b290fc&size=35&center=true&v
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/ilyass-codezz-364204263/" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/kaneki-ezzam-364204263/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="mohamed elhmouid" height="30" width="40" /></a>
     <a href="https://www.instagram.com/ilyass._.ezzam/" target="blank"><img align="center"
