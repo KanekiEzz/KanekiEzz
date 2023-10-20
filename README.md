@@ -92,14 +92,14 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=b290fc&size=35&center=true&v
 </p>
 
 <p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=KanekiEzzam&show_icons=true&locale=en&layout=compact&theme=radical"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=IlyassEzzam&show_icons=true&locale=en&layout=compact&theme=radical"
         alt="KanekiEzzam" /></p>
 
 <p><img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=KanekiEzzam&show_icons=true&locale=en&theme=radical"
+        src="https://github-readme-stats.vercel.app/api?username=IlyassEzzam&show_icons=true&locale=en&theme=radical"
         alt="KanekiEzzam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiEzzam&theme=radical"
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IlyassEzzam&theme=radical"
         alt="KanekiEzzam" /></p>
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b290fc&height=120&section=footer" />
