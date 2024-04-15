@@ -8,7 +8,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&v
 
 
 
-<img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/anime.gif" />
 
 - 🔭 I’m currently working on *expanding my programming skills and knowledge, especially in C Language.*
 
@@ -100,7 +100,11 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&v
     </a> 
 </p>
 <br>
-<p><img align="center"
+
+<img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/anime.gif" />
+
+<p>
+ <p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=IlyassEzzam&show_icons=true&locale=en&layout=compact&theme=radical"
         alt="KanekiEzzam" /></p>
 
@@ -109,7 +113,9 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&v
         alt="KanekiEzzam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IlyassEzzam&theme=radical"
-        alt="KanekiEzzam" /></p>
+        alt="KanekiEzzam" /></p>   
+</p>
+
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d4b4b&height=120&section=footer" />
 </a>
