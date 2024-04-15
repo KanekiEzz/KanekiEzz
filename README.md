@@ -8,6 +8,8 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&v
 
 
 
+<img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🔭 I’m currently working on *expanding my programming skills and knowledge, especially in C Language.*
 
 - 🌱 I’m continuously learning *and improving my coding abilities.*
