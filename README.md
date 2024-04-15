@@ -6,6 +6,8 @@
 SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ezz+Kaneki;I'm+from+Morocco;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 
 
+
+
 - 🔭 I’m currently working on *expanding my programming skills and knowledge, especially in C Language.*
 
 - 🌱 I’m continuously learning *and improving my coding abilities.*
@@ -15,6 +17,9 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&v
 - 📫 How to reach me? *you can use [Email](ilyasskaneki1337@gmail.com).*
 
 - ⚡ Fun fact *It’s all 0’s and 1’s*
+
+
+<img width=50% src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/z%20(3).gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,7 +33,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&v
 
     - ⚡ Fun fact **If it's working dont touch it.**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: <img width=10% src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/furious.gif" /></h3>
 <p align="left">
     <!-- C  -->
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
