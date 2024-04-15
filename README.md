@@ -12,7 +12,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=b290fc&size=35&center=true&v
 
 - 👯 I’m looking to collaborate on *open-source projects and programming challenges.*
 
-- 📫 How to reach me? *you can use [Email](ilyassezzam1337@gmail.com).*
+- 📫 How to reach me? *you can use [Email](ilyasskaneki1337@gmail.com).*
 
 - ⚡ Fun fact *It’s all 0’s and 1’s*
 
@@ -21,7 +21,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=b290fc&size=35&center=true&v
     <a href="https://www.linkedin.com/in/ilyassportfolio/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="mohamed elhmouid" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/ilyass._.ezzam/" target="blank"><img align="center"
+    <a href="https://www.instagram.com/ezz_.kaneki/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="mohamed elhmouid" height="30" width="40" /></a>
 
