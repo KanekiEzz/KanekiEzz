@@ -101,7 +101,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&v
 </p>
 <br>
 
-<img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/anime.gif" />
+<img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/klad_753.gif" />
 
 <p>
  <p><img align="center"
