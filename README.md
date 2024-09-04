@@ -79,22 +79,23 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
     </a>
-    <!-- vuejs -->
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
+    <!-- python -->
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" />
     </a>
-    <!-- php -->
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"   width="40" height="40" /> 
+    <!-- djangoproject -->
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django"   width="40" height="40" /> 
     </a> 
-    <!-- firebase -->
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+<!--     nexjs -->
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40" />
     </a>
     <!-- mysql -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"   alt="mysql" width="40" height="40" /> 
     </a> 
+    <!-- mongose -->
     <a href="https://www.mongodbcom/" target="_blank" rel="noreferrer"> 
         <img   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"   alt="mongodb" width="40" height="40" /> 
     </a> 
