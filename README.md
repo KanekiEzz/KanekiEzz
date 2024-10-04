@@ -19,7 +19,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 - 📫 How to reach me? *you can use [Email](kaneki@gmail.com).*
 
 - ⚡ Fun fact *It’s all 0’s and 1’s*
-- “Are you an encryption algorithm? Because I can’t decode your beauty”
+- Are you an encryption algorithm? Because I can’t decode your beauty
 
 
 
@@ -37,6 +37,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 
 
     - ⚡ Fun fact **If it's working dont touch it.**
+    - 🍀 Are you an encryption algorithm? Because I can’t decode your beauty
 
 <h3 align="left">Languages and Tools: <img width=10% src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/furious.gif" /></h3>
 <p align="left">
