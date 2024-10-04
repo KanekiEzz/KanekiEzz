@@ -19,6 +19,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 - 📫 How to reach me? *you can use [Email](kaneki@gmail.com).*
 
 - ⚡ Fun fact *It’s all 0’s and 1’s*
+- “Are you an encryption algorithm? Because I can’t decode your beauty”
 
 
 
