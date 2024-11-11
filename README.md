@@ -39,7 +39,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
     - ⚡ Fun fact **If it's working dont touch it.**
     - 🍀 Are you an encryption algorithm? Because I can’t decode your beauty
 
-<h3 align="left">Languages and Tools: <img width=10% src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/furious.gif" /></h3>
+<h3 align="left">Languages and Tools: <!-- <img width=10% src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/furious.gif" /></h3> -->
 <p align="left">
     <!-- C  -->
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
