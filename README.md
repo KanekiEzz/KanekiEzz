@@ -107,20 +107,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/iezzam" alt="iezzam's 42 stats" /></a>
 <img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/klad_753.gif" />
 
-<!--
-<p>
- <p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=KanekiEzz&show_icons=true&locale=en&layout=compact&theme=midnight-purple"
-        alt="KanekiEzzam" /></p>
-
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=KanekiEzz&show_icons=true&locale=en&theme=midnight-purple"
-        alt="KanekiEzzam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiEzz&theme=midnight-purple"
-        alt="KanekiEzzam" /></p>   
-</p>
--->
 
 <p align="center">
     <!-- Top Card: Language Stats -->
