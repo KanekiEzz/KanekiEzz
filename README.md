@@ -108,24 +108,18 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 <img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/klad_753.gif" />
 
 
-<p align="center">
-    <!-- Top Card: Language Stats -->
-    <img align="center"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=KanekiEzz&show_icons=true&locale=en&layout=compact&theme=midnight-purple"
-         alt="KanekiEzzam" />
+<p>
+ <p><img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=KanekiEzz&show_icons=true&locale=en&layout=compact&theme=midnight-purple"
+        alt="KanekiEzzam" /></p>
+
+<p><img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=KanekiEzz&show_icons=true&locale=en&theme=midnight-purple"
+        alt="KanekiEzzam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiEzz&theme=midnight-purple"
+        alt="KanekiEzzam" /></p>   
 </p>
-
-<div style="display: flex; justify-content: center; gap: 2px; align-items: center;">
-    <!-- Bottom Card: GitHub Stats -->
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=KanekiEzz&show_icons=true&locale=en&theme=midnight-purple" 
-        alt="KanekiEzzam" />
-    <!-- Bottom Card: GitHub Stats -->
-    <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiEzz&theme=midnight-purple" 
-        alt="KanekiEzzam" />
-</div>
-
 
 
 
