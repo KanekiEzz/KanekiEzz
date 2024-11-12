@@ -129,7 +129,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
          alt="KanekiEzzam" />
 </p>
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center; text-align: center;">
+<div style="display: flex; justify-content: center; gap: 2px; align-items: center;">
     <!-- Bottom Card: GitHub Stats -->
     <img 
         src="https://github-readme-stats.vercel.app/api?username=KanekiEzz&show_icons=true&locale=en&theme=midnight-purple" 
