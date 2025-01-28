@@ -122,6 +122,12 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 </p>
 
 
+<!--### 🚀 GitHub Contribution Graph: -->
+<p align="center">
+  <a href="https://github.com/KanekiEzz;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KanekiEzz&bg_color=1a1b27&color=9745f5&line=ff7b72&point=f8d866&area=true&hide_border=true" alt="GitHub Contribution Graph">
+  </a>
+</p>
 
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer" />
