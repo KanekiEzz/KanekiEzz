@@ -103,10 +103,10 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
     </a> 
 </p>
 <br>
-<!--
+<!--BADGE-->
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/iezzam" alt="iezzam's 42 stats" /></a>
 <img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/klad_753.gif" />
--->
+
 
 <p>
  <p><img align="center"
