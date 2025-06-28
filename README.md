@@ -161,7 +161,8 @@ const ezz = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiEzz&theme=tokyonight&hide_border=true&background=0D1117&stroke=9745f5&ring=9745f5&fire=ff6b6b&currStreakLabel=9745f5" alt="GitHub Streak" />
 </div>
 
----
+<br>
+
 
 
 <!--### 🚀 GitHub Contribution Graph: -->
