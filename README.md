@@ -8,21 +8,58 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 
 
 
-<img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/anime.gif" />
 
-- 🔭 I’m currently working on *expanding my programming skills and knowledge, especially in C Language.*
+<!-- Main content with better layout -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-- 🌱 I’m continuously learning *and improving my coding abilities.*
+## 🎯 About Me
 
-- 👯 I’m looking to collaborate on *open-source projects and programming challenges.*
+```javascript
+const ezz = {
+    name: "Ezz Kaneki",
+    location: "Morocco 🇲🇦",
+    role: "Full Stack Developer",
+    education: "42 School Student",
+    currentFocus: "C Programming & System Design",
+    interests: ["Web Development", "Open Source", "Problem Solving"],
+    motto: "Code with passion, debug with patience"
+};
+```
 
-- 📫 How to reach me? *you can use [Email](kaneki@gmail.com).*
+### 🌟 What I'm Up To
+- 🔥 Mastering **C Programming** at 42 School
+- 🚀 Building full-stack applications with **React & Django**
+- 🌱 Exploring **System Design** and **Data Structures**
+- 👥 Open to **collaboration** on exciting projects
+- 📚 Constantly learning and sharing knowledge
 
-- ⚡ Fun fact *It’s all 0’s and 1’s*
-- Are you an encryption algorithm? Because I can’t decode your beauty
+### 🎮 Fun Facts
+- 🧩 Love solving complex algorithmic challenges
+- 🎨 Enjoy creating beautiful, functional UIs
+- ☕ Coffee-driven development sessions
+- 🌙 Night owl programmer
 
+</td>
+<td width="50%" valign="top">
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/anime.gif" width="300px" alt="Coding Animation"/>
+  
+  <br><br>
+  
+  <!-- 42 School Badge -->
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/kettlebells/iezzam" alt="42 School Badge" />
+  </a>
+</div>
 
+</td>
+</tr>
+</table>
+
+---
 
 
 
@@ -104,25 +141,28 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 </p>
 <br>
 <!--BADGE-->
+<br>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/iezzam" alt="iezzam's 42 stats" /></a>
+
+<br>
+<img src="https://leetcard.jacoblin.cool/Ezzkaneki?theme=unicorn&font=source_code_pro&ext=contest" alt="LeetCode Stats" />
 <img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/klad_753.gif" />
 
 
-<p>
- <p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=KanekiEzz&show_icons=true&locale=en&layout=compact&theme=midnight-purple"
-        alt="KanekiEzzam" /></p>
+<br><br><br>
 
-<p><img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=KanekiEzz&show_icons=true&locale=en&theme=midnight-purple"
-        alt="KanekiEzzam" /></p>
+---
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KanekiEzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9745f5&icon_color=9745f5&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiEzz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745f5&text_color=c9d1d9"/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiEzz&theme=midnight-purple"
-        alt="KanekiEzzam" /></p>   
-</p>
-<!-- letcode -->
-<img src="https://leetcard.jacoblin.cool/Ezzkaneki?theme=dark&font=Harmattan&ext=heatmap" alt="LeetCode Stats" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiEzz&theme=tokyonight&hide_border=true&background=0D1117&stroke=9745f5&ring=9745f5&fire=ff6b6b&currStreakLabel=9745f5" alt="GitHub Streak" />
+</div>
+
+---
+
 
 <!--### 🚀 GitHub Contribution Graph: -->
 <p align="center">
