@@ -145,7 +145,7 @@ const ezz = {
 
 
 <br>
-<img src="https://leetcard.jacoblin.cool/Ezzkaneki?theme=unicorn&font=source_code_pro&ext=contest" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/Ezzkaneki?theme=unicorn&font=source_code_pro&ext=activity" alt="LeetCode Stats" />
 <img width="25%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/KanekiEzz/KanekiEzz/main/hello/klad_753.gif" />
 
 
